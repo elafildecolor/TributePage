@@ -12,10 +12,11 @@ h1{
     font-size: 30pt;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-section{
+
+/*section{
     text-align: center;
     margin: 20%;
-}
+}*/
 
 .years {
     font-weight: bold;
@@ -24,10 +25,24 @@ section{
 #image{   
     max-width: 100%;
     height: auto;
-    margin: 10px
+    margin: 10px;
 }
 #img-div{
     text-align: center;
     background-color: white;
     margin: 15px
+}
+
+li {
+    max-width: 600px;
+    margin: 10px;
+}
+
+#tribute-info{
+    text-align: center;
+}
+
+.myUL{
+    display: inline-block;
+    text-align: left;
 }
