@@ -33,7 +33,7 @@ h1{
     margin: 15px
 }
 
-li {
+li,ul>p {
     max-width: 600px;
     margin: 10px;
 }
