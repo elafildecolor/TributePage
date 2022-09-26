@@ -1,3 +1,22 @@
+#main {
+    background-color: lightgray;
+    border-radius: 5px;
+}
+
+#title {
+    text-align: center;
+    padding-top: 40px;
+}
+
+h1{
+    font-size: 30pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.years {
+    font-weight: bold;
+}
+
 #image{   
     max-width: 100%;
     height: auto;
