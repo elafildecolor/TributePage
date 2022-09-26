@@ -12,6 +12,10 @@ h1{
     font-size: 30pt;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+section{
+    text-align: center;
+    margin: 20%;
+}
 
 .years {
     font-weight: bold;
@@ -20,7 +24,10 @@ h1{
 #image{   
     max-width: 100%;
     height: auto;
+    margin: 10px
 }
 #img-div{
     text-align: center;
+    background-color: white;
+    margin: 15px
 }
